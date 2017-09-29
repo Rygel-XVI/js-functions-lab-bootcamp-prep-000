@@ -5,7 +5,7 @@ function happyHolidays() {
 
 function happyHolidaysTo(name) {
 <<<<<<< HEAD
-  return 'Happy holidays, ${name}'
+  return `Happy holidays, ${name}`
 }
 
 function happyHolidayTo(holiday, name) {
